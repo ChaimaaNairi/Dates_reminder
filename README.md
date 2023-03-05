@@ -1,4 +1,4 @@
-#Dates Reminder App
+## Dates Reminder App
 The Dates Reminder app is a simple and easy-to-use tool for keeping track of important dates, events, and deadlines. Whether you're a busy professional trying to juggle multiple projects or a student trying to stay on top of assignments, this app can help you stay organized and on schedule.
 
 <h3> With Dates Reminder, you can: </h3> 
